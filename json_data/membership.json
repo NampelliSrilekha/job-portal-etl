@@ -1,0 +1,191 @@
+[
+    {
+        "membership_id": 1,
+        "user_id": 1,
+        "Type_of_membership": "Premium",
+        "active_date": "2025-02-01",
+        "expiry_date": "2026-02-01"
+    },
+    {
+        "membership_id": 2,
+        "user_id": 2,
+        "Type_of_membership": "Basic",
+        "active_date": "2025-01-15",
+        "expiry_date": "2026-01-15"
+    },
+    {
+        "membership_id": 3,
+        "user_id": 3,
+        "Type_of_membership": "Plus",
+        "active_date": "2024-12-01",
+        "expiry_date": "2025-12-01"
+    },
+    {
+        "membership_id": 4,
+        "user_id": 4,
+        "Type_of_membership": "Premium",
+        "active_date": "2025-02-05",
+        "expiry_date": "2026-02-05"
+    },
+    {
+        "membership_id": 5,
+        "user_id": 5,
+        "Type_of_membership": "Basic",
+        "active_date": "2025-01-20",
+        "expiry_date": "2026-01-20"
+    },
+    {
+        "membership_id": 6,
+        "user_id": 6,
+        "Type_of_membership": "Plus",
+        "active_date": "2024-11-25",
+        "expiry_date": "2025-11-25"
+    },
+    {
+        "membership_id": 7,
+        "user_id": 7,
+        "Type_of_membership": "Premium",
+        "active_date": "2025-02-10",
+        "expiry_date": "2026-02-10"
+    },
+    {
+        "membership_id": 8,
+        "user_id": 8,
+        "Type_of_membership": "Basic",
+        "active_date": "2025-01-05",
+        "expiry_date": "2026-01-05"
+    },
+    {
+        "membership_id": 9,
+        "user_id": 9,
+        "Type_of_membership": "Plus",
+        "active_date": "2024-12-15",
+        "expiry_date": "2025-12-15"
+    },
+    {
+        "membership_id": 10,
+        "user_id": 10,
+        "Type_of_membership": "Premium",
+        "active_date": "2025-02-12",
+        "expiry_date": "2026-02-12"
+    },
+    {
+        "membership_id": 11,
+        "user_id": 11,
+        "Type_of_membership": "Basic",
+        "active_date": "2025-01-25",
+        "expiry_date": "2026-01-25"
+    },
+    {
+        "membership_id": 12,
+        "user_id": 12,
+        "Type_of_membership": "Plus",
+        "active_date": "2024-12-20",
+        "expiry_date": "2025-12-20"
+    },
+    {
+        "membership_id": 13,
+        "user_id": 13,
+        "Type_of_membership": "Premium",
+        "active_date": "2025-02-15",
+        "expiry_date": "2026-02-15"
+    },
+    {
+        "membership_id": 14,
+        "user_id": 14,
+        "Type_of_membership": "Basic",
+        "active_date": "2025-01-30",
+        "expiry_date": "2026-01-30"
+    },
+    {
+        "membership_id": 15,
+        "user_id": 15,
+        "Type_of_membership": "Plus",
+        "active_date": "2024-12-25",
+        "expiry_date": "2025-12-25"
+    },
+    {
+        "membership_id": 16,
+        "user_id": 16,
+        "Type_of_membership": "Premium",
+        "active_date": "2025-02-20",
+        "expiry_date": "2026-02-20"
+    },
+    {
+        "membership_id": 17,
+        "user_id": 17,
+        "Type_of_membership": "Basic",
+        "active_date": "2025-02-01",
+        "expiry_date": "2026-02-01"
+    },
+    {
+        "membership_id": 18,
+        "user_id": 18,
+        "Type_of_membership": "Plus",
+        "active_date": "2024-11-28",
+        "expiry_date": "2025-11-28"
+    },
+    {
+        "membership_id": 19,
+        "user_id": 19,
+        "Type_of_membership": "Premium",
+        "active_date": "2025-02-22",
+        "expiry_date": "2026-02-22"
+    },
+    {
+        "membership_id": 20,
+        "user_id": 20,
+        "Type_of_membership": "Basic",
+        "active_date": "2025-01-10",
+        "expiry_date": "2026-01-10"
+    },
+    {
+        "membership_id": 21,
+        "user_id": 21,
+        "Type_of_membership": "Plus",
+        "active_date": "2024-12-30",
+        "expiry_date": "2025-12-30"
+    },
+    {
+        "membership_id": 22,
+        "user_id": 22,
+        "Type_of_membership": "Premium",
+        "active_date": "2025-02-25",
+        "expiry_date": "2026-02-25"
+    },
+    {
+        "membership_id": 23,
+        "user_id": 23,
+        "Type_of_membership": "Basic",
+        "active_date": "2025-02-05",
+        "expiry_date": "2026-02-05"
+    },
+    {
+        "membership_id": 24,
+        "user_id": 24,
+        "Type_of_membership": "Plus",
+        "active_date": "2024-11-30",
+        "expiry_date": "2025-11-30"
+    },
+    {
+        "membership_id": 25,
+        "user_id": 25,
+        "Type_of_membership": "Premium",
+        "active_date": "2025-02-28",
+        "expiry_date": "2026-02-28"
+    },
+    {
+        "membership_id": 26,
+        "user_id": 26,
+        "Type_of_membership": "Basic",
+        "active_date": "2025-01-18",
+        "expiry_date": "2026-01-18"
+    },
+    {
+        "membership_id": 27,
+        "user_id": 27,
+        "Type_of_membership": "Plus",
+        "active_date": "2024-12-18",
+        "expiry_date": "2025-12-18"
+    }
+]

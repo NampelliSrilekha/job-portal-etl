@@ -1,0 +1,237 @@
+[
+    {
+        "user_id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "personal_email": "john.doe@example.com",
+        "phone": 1234567890,
+        "Password_hash": "hashed_password_1",
+        "profile_picture": null
+    },
+    {
+        "user_id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "personal_email": "jane.smith@example.com",
+        "phone": 9876543210,
+        "Password_hash": "hashed_password_2",
+        "profile_picture": null
+    },
+    {
+        "user_id": 3,
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "personal_email": "alice.johnson@example.com",
+        "phone": 1122334455,
+        "Password_hash": "hashed_password_3",
+        "profile_picture": null
+    },
+    {
+        "user_id": 4,
+        "first_name": "Bob",
+        "last_name": "Brown",
+        "personal_email": "bob.brown@example.com",
+        "phone": 2233445566,
+        "Password_hash": "hashed_password_4",
+        "profile_picture": null
+    },
+    {
+        "user_id": 5,
+        "first_name": "Charlie",
+        "last_name": "Davis",
+        "personal_email": "charlie.davis@example.com",
+        "phone": 3344556677,
+        "Password_hash": "hashed_password_5",
+        "profile_picture": null
+    },
+    {
+        "user_id": 6,
+        "first_name": "David",
+        "last_name": "Miller",
+        "personal_email": "david.miller@example.com",
+        "phone": 4455667788,
+        "Password_hash": "hashed_password_6",
+        "profile_picture": null
+    },
+    {
+        "user_id": 7,
+        "first_name": "Emma",
+        "last_name": "Wilson",
+        "personal_email": "emma.wilson@example.com",
+        "phone": 5566778899,
+        "Password_hash": "hashed_password_7",
+        "profile_picture": null
+    },
+    {
+        "user_id": 8,
+        "first_name": "Frank",
+        "last_name": "Moore",
+        "personal_email": "frank.moore@example.com",
+        "phone": 6677889900,
+        "Password_hash": "hashed_password_8",
+        "profile_picture": null
+    },
+    {
+        "user_id": 9,
+        "first_name": "Grace",
+        "last_name": "Taylor",
+        "personal_email": "grace.taylor@example.com",
+        "phone": 7788990011,
+        "Password_hash": "hashed_password_9",
+        "profile_picture": null
+    },
+    {
+        "user_id": 10,
+        "first_name": "Henry",
+        "last_name": "Anderson",
+        "personal_email": "henry.anderson@example.com",
+        "phone": 8899001122,
+        "Password_hash": "hashed_password_10",
+        "profile_picture": null
+    },
+    {
+        "user_id": 11,
+        "first_name": "Ivy",
+        "last_name": "Harris",
+        "personal_email": "ivy.harris@example.com",
+        "phone": 9900112233,
+        "Password_hash": "hashed_password_11",
+        "profile_picture": null
+    },
+    {
+        "user_id": 12,
+        "first_name": "Jack",
+        "last_name": "Clark",
+        "personal_email": "jack.clark@example.com",
+        "phone": 1002003004,
+        "Password_hash": "hashed_password_12",
+        "profile_picture": null
+    },
+    {
+        "user_id": 13,
+        "first_name": "Karen",
+        "last_name": "Lewis",
+        "personal_email": "karen.lewis@example.com",
+        "phone": 1112223334,
+        "Password_hash": "hashed_password_13",
+        "profile_picture": null
+    },
+    {
+        "user_id": 14,
+        "first_name": "Liam",
+        "last_name": "Walker",
+        "personal_email": "liam.walker@example.com",
+        "phone": 2223334445,
+        "Password_hash": "hashed_password_14",
+        "profile_picture": null
+    },
+    {
+        "user_id": 15,
+        "first_name": "Mia",
+        "last_name": "Hall",
+        "personal_email": "mia.hall@example.com",
+        "phone": 3334445556,
+        "Password_hash": "hashed_password_15",
+        "profile_picture": null
+    },
+    {
+        "user_id": 16,
+        "first_name": "Nathan",
+        "last_name": "Allen",
+        "personal_email": "nathan.allen@example.com",
+        "phone": 4445556667,
+        "Password_hash": "hashed_password_16",
+        "profile_picture": null
+    },
+    {
+        "user_id": 17,
+        "first_name": "Olivia",
+        "last_name": "Young",
+        "personal_email": "olivia.young@example.com",
+        "phone": 5556667778,
+        "Password_hash": "hashed_password_17",
+        "profile_picture": null
+    },
+    {
+        "user_id": 18,
+        "first_name": "Patrick",
+        "last_name": "King",
+        "personal_email": "patrick.king@example.com",
+        "phone": 6667778889,
+        "Password_hash": "hashed_password_18",
+        "profile_picture": null
+    },
+    {
+        "user_id": 19,
+        "first_name": "Quinn",
+        "last_name": "Scott",
+        "personal_email": "quinn.scott@example.com",
+        "phone": 7778889990,
+        "Password_hash": "hashed_password_19",
+        "profile_picture": null
+    },
+    {
+        "user_id": 20,
+        "first_name": "Rachel",
+        "last_name": "Green",
+        "personal_email": "rachel.green@example.com",
+        "phone": 8889990001,
+        "Password_hash": "hashed_password_20",
+        "profile_picture": null
+    },
+    {
+        "user_id": 21,
+        "first_name": "Samuel",
+        "last_name": "Baker",
+        "personal_email": "samuel.baker@example.com",
+        "phone": 9990001112,
+        "Password_hash": "hashed_password_21",
+        "profile_picture": null
+    },
+    {
+        "user_id": 22,
+        "first_name": "Tina",
+        "last_name": "Adams",
+        "personal_email": "tina.adams@example.com",
+        "phone": 1001100213,
+        "Password_hash": "hashed_password_22",
+        "profile_picture": null
+    },
+    {
+        "user_id": 23,
+        "first_name": "Umar",
+        "last_name": "Nelson",
+        "personal_email": "umar.nelson@example.com",
+        "phone": 1112200324,
+        "Password_hash": "hashed_password_23",
+        "profile_picture": null
+    },
+    {
+        "user_id": 24,
+        "first_name": "Violet",
+        "last_name": "Carter",
+        "personal_email": "violet.carter@example.com",
+        "phone": 1223300435,
+        "Password_hash": "hashed_password_24",
+        "profile_picture": null
+    },
+    {
+        "user_id": 25,
+        "first_name": "William",
+        "last_name": "Evans",
+        "personal_email": "william.evans@example.com",
+        "phone": 1334400546,
+        "Password_hash": "hashed_password_25",
+        "profile_picture": null
+    },
+    {
+        "user_id": 26,
+        "first_name": "Srilekha",
+        "last_name": "Nampelli",
+        "personal_email": "srnamp@example.com",
+        "phone": 1324400516,
+        "Password_hash": "hashed_password_26",
+        "profile_picture": null
+
+    }
+]
