@@ -44,7 +44,7 @@ class MembershipServices:
         self.cursor = self.db_connection.cursor()
 
     def membership_exists(self, membership_id):
-        """Check if a user exists in the database"""
+        """Check if a memberships exists in the database"""
         self.cursor.execute("SELECT COUNT(*) FROM membership WHERE membership_id = %s", (membership_id,))
         return self.cursor.fetchone()[0] > 0
 

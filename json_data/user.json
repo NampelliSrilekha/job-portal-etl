@@ -233,5 +233,15 @@
         "Password_hash": "hashed_password_26",
         "profile_picture": null
 
+    },
+    {
+        "user_id": 27,
+        "first_name": "Sri",
+        "last_name": "Ram",
+        "personal_email": "sriRam@example.com",
+        "phone": 1324401516,
+        "Password_hash": "hashed_password_27",
+        "profile_picture": null
+
     }
 ]
